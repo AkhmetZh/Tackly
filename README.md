@@ -1,6 +1,6 @@
-# Tackly
+# Taskly
 
-Tackly is a simple Flutter task manager application created for learning state management, API integration, and Firebase database usage.
+Taskly is a simple Flutter task manager application created for learning state management, API integration, and Firebase database usage.
 
 ## Features
 
@@ -31,8 +31,3 @@ Tasks are loaded from:
 
 https://jsonplaceholder.typicode.com/todos
 
-## Run Project
-
-```bash
-flutter pub get
-flutter run
